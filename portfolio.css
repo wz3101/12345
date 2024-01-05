@@ -1,0 +1,129 @@
+body {
+    font-family: times new roman;
+    margin: 0;
+    padding: 0;
+    background-color: #EBE1D8;
+	box-sizing:border-box;
+}
+
+/* NAVIGATION BAR */
+.navbar_navavar-inverse{
+    background-color:#323232;
+  color: #323232;
+  overflow: hidden;
+  font:100px;
+}
+
+
+
+
+.jumbotron {
+    padding: 80px;
+  text-align: center;
+  background: black;
+  background-color: #DDD0C8;
+  color: #323232;
+  font-size: 30px;
+ 
+
+}
+
+/* About */
+.jumbotron2{
+padding: 80px;
+  text-align: center;
+  background: black;
+  background-color: #DDD0C8;
+  color: #323232;
+  font-size: 30px;
+}
+
+.jumbotron2 h1{
+	
+	text-align: left;
+	font-size: 50px;
+}
+.jumbotron2 h2{
+	
+	text-align: left;
+	font-size: 30px;
+}
+.abouttext{
+	text-align: left;
+	font-size: 20px;
+}
+
+/* Portfolio*/
+
+.jumbotron3{
+padding: 80px;
+margin-top:30px;
+  text-align: center;
+  background: black;
+  background-color: #DDD0C8;
+  color: #323232;
+  font-size: 30px;
+}
+.jumbotron3 h1{
+	
+	text-align: left;
+	font-size: 50px;
+}
+.jumbotron3 h2{
+	
+	text-align: left;
+	font-size: 30px;
+}
+.jumbotron3 p{
+	
+	text-align: left;
+	font-size: 20px;
+}
+
+.row{
+	margin-top:20px;
+}
+
+
+/* Footer */
+
+.footer {
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: left;
+background-color: black;
+  margin-top:30px;
+}
+
+/* skill bars */
+* {box-sizing:border-box;
+}
+
+
+.container {
+  width: 90%; 
+  
+  
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: black; 
+ 
+  
+}
+
+.html {width: 90%; background-color: #B19D8F;   font-weight: bold;} 
+.css {width: 80%; background-color: #B19D8F;   font-weight: bold;} 
+.js {width: 65%; background-color: #B19D8F;  font-weight: bold;} 
+.php {width: 60%; background-color: #B19D8F;  font-weight: bold;} 
+
+.contactInfo{
+	
+	margin-left: 20px;
+	background-color:#DDD0C8;
+}
